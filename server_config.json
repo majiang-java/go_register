@@ -1,0 +1,19 @@
+{
+    "onenorth": {
+      "url": "http://192.168.0.201:17141",
+      "token": "3a450216a62bd78aba060b96a7f8ff04"
+    },
+    "nus": {
+      "url": "http://172.18.109.35:8099",
+      "token": "078a1d62a9c899825abcb0456d07cadb"
+    },
+    "alihkg": {
+      "url": "https://192.168.0.201:8099",
+      "token": "17d16fd05ac2d93eb633b6c4fcf032dd"
+    },
+    "default": {
+      "url": "https://infra-config.6estates.com",
+      "token": "17d16fd05ac2d93eb633b6c4fcf032dd"
+    }
+  }
+  
